@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|c:\\users\\duyen\\onedrive\\m\u00E1y t\u00EDnh\\end\\gui\\formfefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\formfefe1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\gui\\doimatkhaumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\doimatkhaumoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\gui\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE06EA46-CF1C-46B6-A099-D250728B465C}|GUI\\GUI.csproj|solutionrelative:gui\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formfefe1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\GUI\\Formfefe1.cs",
+              "RelativeDocumentMoniker": "GUI\\Formfefe1.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\GUI\\Formfefe1.cs [Design]",
+              "RelativeToolTip": "GUI\\Formfefe1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:10:35.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoiMatKhauMoi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\GUI\\DoiMatKhauMoi.cs",
+              "RelativeDocumentMoniker": "GUI\\DoiMatKhauMoi.cs",
+              "ToolTip": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\GUI\\DoiMatKhauMoi.cs [Design]",
+              "RelativeToolTip": "GUI\\DoiMatKhauMoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:09:45.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\GUI\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\DoiMatKhau.cs",
+              "ToolTip": "D:\\Source Code\\PTPM\\Prelude-QLSV\\GUI\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-02T08:09:45.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\duyen\\OneDrive\\M\u00E1y t\u00EDnh\\end\\GUI\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "GUI\\QuenMatKhau.cs",
+              "ToolTip": "D:\\Source Code\\PTPM\\Prelude-QLSV\\GUI\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-02T08:09:45.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
